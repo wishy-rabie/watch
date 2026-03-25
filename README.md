@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="ar">
+
 <head>
     <meta charset="UTF-8">
     <title>Wishy & Rabie Movie Portal</title>
@@ -30,7 +29,6 @@
 
 <video controls>
     <source src="https://s302d6.downet.net/download/1774521700/69c3bbe44c3de/Im.Thinking.of.Ending.Things.2020.1080p.WEB-DL.AKWAM.mp4" type="video/mp4">
-    متصفحك لا يدعم تشغيل الفيديو
 </video>
 
 </body>
