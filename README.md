@@ -7,7 +7,7 @@
             background-color: #111;
             color: white;
             text-align: center;
-            font-family: Arial;
+            font-family: Tahoma;
         }
 
         h1 {
