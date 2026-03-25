@@ -18,9 +18,7 @@
         video {
             margin-top: 30px;
             width: 80%;
-            max-width: 800px;
-            border: 3px solid red;
-            border-radius: 10px;
+            max-width: 1600px;
         }
     </style>
 </head>
@@ -32,4 +30,8 @@
 </video>
 
 </body>
+
+
+
+
 Made with ❤️ / 25-03-2025 v0.1
